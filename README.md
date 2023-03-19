@@ -12,7 +12,7 @@ You Can Earn Money From Your Python Scripts By This Lib And Your Telegram Accoun
 
 # Using
 
-~> **Replace Telegram_id with your Telegram ID from our** [SGEARNBOT](https://t.me/sgearnbot)
+~> **Replace telegram_id with your Telegram ID from our** [SGEARNBOT](https://t.me/sgearnbot)
 
 ```python
 #import sgearnbot Library.
