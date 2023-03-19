@@ -26,5 +26,17 @@ if link:
 else:
     print("no links available now")
 ```
+
+You Can Use default() Function To Skip Doing All That.
+```python
+#import sgearnbot Library.
+from sgearnbot import *
+#setup your Telegram Id.
+sg = sgearnbot(id="telegram_id_here")
+#run default() function.
+sg.default()
+#after this function put your script
+```
+
 # Contact Us
 Telegram : https://t.me/hellhour
