@@ -1,11 +1,17 @@
+** ~> SGEARNBOT FOR PYTHON**
+
 # Installing
+
 ```bash
 pip install sgearnbot
 ```
+
 # Info
+
 You Can Earn Money From Your Python Scripts By This Lib And Your Telegram Account, Just Make User Skip ShortLink and Get Code.
 
 # Using
+
 ```python
 #import sgearnbot Library.
 from sgearnbot import *
@@ -28,6 +34,7 @@ else:
 ```
 
 You Can Use default() Function To Skip Doing All That.
+
 ```python
 #import sgearnbot Library.
 from sgearnbot import *
@@ -39,4 +46,5 @@ sg.default()
 ```
 
 # Contact Us
+
 Telegram : https://t.me/hellhour
