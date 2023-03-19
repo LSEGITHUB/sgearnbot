@@ -1,4 +1,4 @@
-** ~> SGEARNBOT FOR PYTHON**
+ ~> **SGEARNBOT FOR PYTHON**
 
 # Installing
 
