@@ -18,7 +18,7 @@ You Can Earn Money From Your Python Scripts By This Lib And Your Telegram Accoun
 #import sgearnbot Library.
 from sgearnbot import *
 #setup your Telegram Id.
-sg = sgearnbot(id="telegram_id_here")
+sg = sgearnbot(id="telegram_id")
 #Get ShortLink.
 link = sg.get_link()
 if link:
@@ -41,7 +41,7 @@ You Can Use default() Function To Skip Doing All That.
 #import sgearnbot Library.
 from sgearnbot import *
 #setup your Telegram Id.
-sg = sgearnbot(id="telegram_id_here")
+sg = sgearnbot(id="telegram_id")
 #run default() function.
 sg.default()
 #after this function put your script
