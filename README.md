@@ -24,7 +24,7 @@ link = sg.get_link()
 if link:
     print(f"Skip This Link : {link}")
     #wait for user to get code and print it here.
-    code = input("write code")
+    code = input("write code : ")
     #check code if correct.
     res = sg.check_code(code)
     if res:
